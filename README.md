@@ -12,6 +12,3 @@ I work at the intersection of **security** and **AI** — breaking systems, meas
 
 `Python` `Bash` `Linux` `Docker` `Git`
 
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=MGpromax&show_icons=true&theme=transparent&hide_border=true&hide_title=true&hide_rank=true" width="400"/>
