@@ -1,45 +1,17 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=cybersecurity+%2B+AI+engineer;i+break+systems+%26+measure+models;if+it's+vague%2C+i+don't+trust+it" alt="Typing SVG" />
+### Hey, I'm Manoj
 
-<br>
+I work at the intersection of **security** and **AI** — breaking systems, measuring models, and building tools that do both.
 
-```bash
-$ whoami
-> manoj
+#### What I do
 
-$ cat work.txt
-> LLM evaluation & red-teaming
-> AI benchmark engineering
-> CLI agent testing
-> security labs & traffic analysis
-> automating boring stuff with python
-```
+- **LLM Evaluation** — red-teaming, benchmark engineering, edge-case discovery
+- **Security Research** — network analysis, traffic inspection, linux internals
+- **Automation** — if it's repetitive, I'll script it
 
-<br>
+#### Tech
 
-<h3 align="center">🔐 security</h3>
-<p align="center">
-network security • DoS/DDoS labs • linux internals • process analysis • TCP/IP
-</p>
+`Python` `Bash` `Linux` `Docker` `Git`
 
-<h3 align="center">🤖 AI/LLM</h3>
-<p align="center">
-LLM evaluation • RLHF analysis • edge-case hunting • benchmark engineering • quality audits
-</p>
+---
 
-<h3 align="center">💻 stack</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,vscode,kali,js,react,nextjs&theme=dark" />
-</p>
-
-<br>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MGpromax&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=22C55E&title_color=22C55E" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=MGpromax&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MGpromax&style=flat-square&color=22C55E" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=MGpromax&show_icons=true&theme=transparent&hide_border=true&hide_title=true&hide_rank=true" width="400"/>
