@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=cybersecurity+grad+%2B+AI+engineer;i+break+systems+%26+measure+models;if+it's+vague%2C+i+don't+trust+it" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=cybersecurity+%2B+AI+engineer;i+break+systems+%26+measure+models;if+it's+vague%2C+i+don't+trust+it" alt="Typing SVG" />
 
 <br>
 
@@ -6,32 +6,24 @@
 $ whoami
 > manoj
 
-$ cat /etc/profile
-> M.Tech Cybersecurity @ VTU, Bengaluru
-> Freelance AI Engineer
-> LLM evaluator | Red-teamer | Dataset builder
-
-$ cat interests.txt
-> testing LLMs until they fail
-> designing AI benchmarks
-> CLI agents > fancy dashboards
-> security labs (DoS, traffic analysis, IDS)
-> automating boring stuff
-
-$ echo $PHILOSOPHY
-> "I focus on how models fail, not how good demos look."
+$ cat work.txt
+> LLM evaluation & red-teaming
+> AI benchmark engineering
+> CLI agent testing
+> security labs & traffic analysis
+> automating boring stuff with python
 ```
 
 <br>
 
 <h3 align="center">🔐 security</h3>
 <p align="center">
-network security • DoS/DDoS labs • linux internals • VM testing (kali/windows) • TCP/IP (actually understood)
+network security • DoS/DDoS labs • linux internals • process analysis • TCP/IP
 </p>
 
 <h3 align="center">🤖 AI/LLM</h3>
 <p align="center">
-LLM evaluation • RLHF analysis • CLI agent testing • edge-case hunting • benchmark engineering • quality audits
+LLM evaluation • RLHF analysis • edge-case hunting • benchmark engineering • quality audits
 </p>
 
 <h3 align="center">💻 stack</h3>
@@ -45,28 +37,6 @@ LLM evaluation • RLHF analysis • CLI agent testing • edge-case hunting •
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MGpromax&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=22C55E&title_color=22C55E" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=MGpromax&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
 </p>
-
-<br>
-
-<details>
-<summary><b>more about how i work</b></summary>
-<br>
-
-```
-✓ clarity over buzzwords
-✓ evidence over opinions
-✓ simple systems that don't break
-✓ learn fast by breaking things faster
-✓ shipping > talking
-```
-
-**currently building:** AI benchmark tools, security + AI crossover projects
-
-**98% quality rating** on 500+ AI evaluation tasks
-
-terminal > GUI • logs > slides • docs > tutorials
-
-</details>
 
 <br>
 
